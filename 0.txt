@@ -1,3 +1,5 @@
 Git is a free software.
 Git know what you have done.
 Git is powerful!
+Git is free softwaare distributed under the GPL.
+
