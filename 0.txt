@@ -1,7 +1,7 @@
 Git is a free software.
 Git know what you have done.
 Git is powerful!
-Git is free softwaare distributed under the GPL.
+Git is a free softwaare distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 Git tracks changes of files.
